@@ -1,0 +1,11 @@
+{
+  "name": "vscodeeslintprettier",
+  "version": "1.0.0",
+  "description": "Setup eslint and prettier on vscode",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Confidence Okoghenun",
+  "license": "ISC"
+}
