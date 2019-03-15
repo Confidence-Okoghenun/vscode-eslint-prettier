@@ -9,4 +9,6 @@ git clone https://github.com/Confidence-Okoghenun/vscode-eslint-prettier.git
 ```
 npm i
 ```
-3. Write bad js and save :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye:
+3. Install [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) from vscode extension store
+
+4. Write bad js and save :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye:
