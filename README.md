@@ -1,4 +1,4 @@
-#Vscode+ESLint+Prettier
+# Vscode+ESLint+Prettier
 
 Steps to get things running:
 1. Clone the repo
